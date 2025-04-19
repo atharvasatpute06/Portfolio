@@ -1,0 +1,11 @@
+.portfolio-info {
+    /* z-index: 2; */
+    opacity: 0 !important; /* Ensure always visible */
+  visibility: visible !important;
+  }
+  
+  .portfolio-item h4,
+  .portfolio-item p {
+    margin: 0;
+  }
+  
